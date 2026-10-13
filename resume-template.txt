@@ -1,0 +1,64 @@
+================================================================================
+                              CURRICULUM VITAE
+================================================================================
+
+[Your Name Here]
+Email: varshad8951@gmail.com
+LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/your-username
+Location: Mysuru, Karnataka, India
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Aspiring Data Analyst and Software Developer with practical internship experience
+in Power BI dashboard creation, Python automated data cleaning, and database
+management. Passionate about transforming raw transactional data into actionable
+business intelligence and developing smart embedded systems.
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+• Data Analytics & BI: Power BI, Python, Pandas, NumPy, Data Cleaning
+• Databases & Querying: SQL, MySQL
+• Web Technologies: HTML, CSS, JavaScript
+• Embedded Systems & Tools: Arduino, GitHub
+
+--------------------------------------------------------------------------------
+INDUSTRY INTERNSHIP
+--------------------------------------------------------------------------------
+Data Analytics Intern | iRobo Automation Pvt. Ltd., Mysuru
+[Duration: Month Year – Month Year]
+• Data Analytics using Power BI and Python Integration for Data Cleaning
+• Integrated Python scripts to automate dataset cleaning and preprocessing
+• Designed dynamic Power BI dashboards to track operational and revenue KPIs
+• Streamlined data workflows using Pandas, NumPy, and structured queries
+
+--------------------------------------------------------------------------------
+ACADEMIC PROJECTS
+--------------------------------------------------------------------------------
+1. Revenue Sales Analytics Dashboard using Power BI
+   • Interactive dashboard delivering sales trends, regional breakdown, and customer segments.
+   • Automated data cleaning pipeline created in Python.
+
+2. Smart Road Safety and Accident Prevention System
+   • Sensor-based alert mechanism built with Arduino to mitigate collision hazards.
+
+3. Traffic Violation Management System
+   • Infraction recording and fine computation system backed by MySQL database.
+
+4. AI-Assisted Digital Forensics Recovery Project
+   • File carver and metadata inspector utilizing automated pattern heuristics.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Engineering / Technology (B.E. / B.Tech) [Placeholder]
+[Your College / University Name Here] | [Graduation Year]
+
+Higher Secondary / Pre-University [Placeholder]
+[Your School / College Name Here] | [Year]
+
+================================================================================
+(Replace this placeholder file by placing your final resume.pdf inside the /public folder)
+================================================================================
